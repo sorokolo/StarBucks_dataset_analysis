@@ -12,13 +12,13 @@ Scikit learn
 
 # File in the repo Descriptions
 
-portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.).
-profile.json - demographic data for each customer.
-transcript.json - records for transactions, offers received, offers viewed, and offers completed.
-Starbucks_Capstone_notebook.* : contains all the work.
+1.  portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.).
+2.  profile.json - demographic data for each customer.
+3.  transcript.json - records for transactions, offers received, offers viewed, and offers completed.
+5.  Starbucks_Capstone_notebook.
 
 # Licensing, Author, Acknowledgements
 Credits must be given to Udacity for the starter codes and Starbucks for provding the data used by this project.
 
 # Full analysis
-Check my medium post at : 
+Check my medium post at : https://medium.com/@ksoro17/starbucks-customer-data-set-analysis-810dc1fd9d3
